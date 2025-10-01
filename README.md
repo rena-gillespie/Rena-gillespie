@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-<!--
-**rena-gillespie/Rena-gillespie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello Hello! I am a full stack web developer and artist based in Auckland.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
