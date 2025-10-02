@@ -4,6 +4,7 @@
 I am a full stack web developer and artist based in Auckland.
 
 # Currently working on 
+### [Art Portfolio] (https://github.com/rena-gillespie/Portfolio)
 A wensite for my art portfolio that show cases my illustrations that isnt on blogspot
 
 
